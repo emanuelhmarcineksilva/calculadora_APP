@@ -135,8 +135,8 @@ b_18.place(x=180, y=208)
 
 # Configurando os calculos
 # O código 'eval()' resolve calculos que são passados para dentro dela.
-a = eval('8/2')
-print(a)
+# 'a = eval('8/2')'
+# 'print(a)'
 # o resultado aparece no terminal
 
 
